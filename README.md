@@ -1,4 +1,4 @@
-# DocX-Keyword-Extraction
+# DOCX-Keyword-Extraction
 Extracts keywords from multiple DocX files.
 
 ## Requirements
